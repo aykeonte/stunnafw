@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @stunna
-- 👀 I’m interested in watching anime, playing league, practicing code
-- 🌱 I’m currently learning python
-- 📫 How to reach me - stunna#0007 on Discord
+-  Hi, I’m Keonte
+-  I’m interested in watching anime, playing league, practicing code
+-  I’m currently learning Javascript
+-  How to reach me - keonte.#0327 on Discord
 
 <!---
 stunnafw/stunnafw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
